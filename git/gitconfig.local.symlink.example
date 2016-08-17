@@ -1,5 +1,5 @@
 [user]
-        name = AUTHORNAME
-        email = AUTHOREMAIL
+        name = Sean Hawkridge
+        email = sean.hawkridge@alliants.com
 [credential]
         helper = GIT_CREDENTIAL_HELPER
